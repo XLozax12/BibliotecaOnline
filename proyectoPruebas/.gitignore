@@ -1,0 +1,33 @@
+# Archivos de configuración sensibles
+config.php
+database.yml
+.env
+
+# Carpeta de dependencias generadas
+/node_modules/
+/vendor/
+
+
+# Archivos de compilación
+/build/
+/dist/
+/target/
+
+# Archivos de sistema específicos
+.DS_Store
+Thumbs.db
+
+# Archivos de logs
+*.log
+*.tmp
+
+# Configuraciones locales de IDE
+.idea/
+.vscode/
+
+# Otros archivos generados automáticamente
+*.class
+
+# Archivos de backup
+*.bak
+*.swp
